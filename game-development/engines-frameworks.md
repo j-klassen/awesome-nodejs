@@ -22,3 +22,4 @@
 [unity](http://unity3d.com)
 [godot](http://www.godotengine.org/wp/)
 [wave engine](http://www.waveengine.net/)
+[luxe](http://luxeengine.com/docs/) - Haxe
