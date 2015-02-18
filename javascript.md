@@ -11,6 +11,7 @@ GUI
 ---
 
 [React](http://facebook.github.io/react/index.html)
+ - [react-training](https://github.com/ryanflorence/react-training/tree/gh-pages/lessons)
 
 ## Blogs
 
