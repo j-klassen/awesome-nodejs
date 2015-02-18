@@ -11,7 +11,7 @@ Some nice node.js resources
 
 ## Packages
 
-Todo
+[mversion](https://www.npmjs.com/package/mversion) - A cross packaging manager module version handler/bumper
 
 ## Transpilers
 
