@@ -3,7 +3,9 @@
 ## Application Frameworks
 
 [PhoneGap](http://phonegap.com/)
+
 [reapp](http://reapp.io/)
+
 [Steroids](http://www.appgyver.com/steroids)
 
 ## Learning
@@ -13,4 +15,5 @@
 ## Web Compontents
 
 [polymer-project](https://www.polymer-project.org)
+
 [webcomponents](http://webcomponents.org/)
