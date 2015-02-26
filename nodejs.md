@@ -11,6 +11,13 @@ Some nice node.js resources
 
 ## Packages
 
+Utility
+-------
+
+[node-notifier](https://www.npmjs.com/package/node-notifier)
+
+[vtop](https://www.npmjs.com/package/vtop)
+
 Databases
 ---------
 
