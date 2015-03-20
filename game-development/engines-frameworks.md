@@ -12,7 +12,11 @@
 
 [phaser](http://phaser.io)
 
+[superpowers](https://sparklinlabs.com/)
+
 ## Physics
+
+[matter.js](http://brm.io/matter-js/)
 
 [p2.js](https://schteppe.github.io/p2.js/)
 
@@ -22,12 +26,24 @@
 
 [three.js](http://threejs.org/)
 
-# Engines
+# Engines / Frameworks
 
-[unity](http://unity3d.com)
+[chilli works](http://www.chilli-works.com/)
 
 [godot](http://www.godotengine.org/wp/)
 
-[wave engine](http://www.waveengine.net/)
+[goo](http://www.goocreate.com/)
+
+[haxe flixel](http://haxeflixel.com/)
+
+[libgdx](http://libgdx.badlogicgames.com/)
 
 [luxe](http://luxeengine.com/docs/) - Haxe
+
+[murl](http://murlengine.com/)
+
+[unity](http://unity3d.com)
+
+[unreal engine](https://www.unrealengine.com/)
+
+[wave engine](http://www.waveengine.net/)
