@@ -4,6 +4,8 @@
 
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+[JavaScript the Right Way](http://jstherightway.org/)
+
 [HTML5 Rocks](http://www.html5rocks.com/en/)
 
 ## Libraries
@@ -17,3 +19,7 @@ GUI
 ## Blogs
 
 [2ality](http://www.2ality.com)
+
+## Talks
+
+[Classical Inheritance is Obsolete - How to Think in Prototypal OO](https://vimeo.com/69255635)
