@@ -6,6 +6,8 @@
 
 [impact](http://impactjs.com/)
 
+[isogenic game engine](http://www.isogenicengine.com/)
+
 [kiwi](http://www.kiwijs.org/)
 
 [panda](http://www.pandajs.net/)
