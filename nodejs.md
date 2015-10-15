@@ -5,6 +5,12 @@ Some nice node.js resources
 
 [Which would be better for concurrent tasks on node.js? Fibers? Web-workers? or Threads?](http://stackoverflow.com/questions/10773564/which-would-be-better-for-concurrent-tasks-on-node-js-fibers-web-workers-or-t)
 
+**Scoth.io**
+
+[The Ins and Outs of Token Based Authentication](https://scotch.io/tutorials/the-ins-and-outs-of-token-based-authentication)
+
+[The Anatomy of a JSON Web Token](https://scotch.io/tutorials/the-anatomy-of-a-json-web-token)
+
 ## Sites
 
 [Isomorphic JavaScript](http://isomorphic.net/)
