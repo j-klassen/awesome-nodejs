@@ -32,6 +32,8 @@
 
 [amazon lumberyard](http://aws.amazon.com/lumberyard/)
 
+[banshee engine](https://github.com/BearishSun/BansheeEngine)
+
 [chilli works](http://www.chilli-works.com/)
 
 [godot](http://www.godotengine.org/wp/)
